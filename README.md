@@ -1,11 +1,11 @@
 According to the [US Census](https://www.census.gov/quickfacts/fact/table/alleghenycountypennsylvania/PST045217), the racial makeup of Allegheny County on July 1, 2017, was estimated as follows:
-    * Black or African American alone:	13.4%
-    * Asian alone: 4.0%
-    * Hispanic or Latino: 2.1%
-    * American Indian and Alaska Native alone: 0.2%
-    * Native Hawaiian and Other Pacific Islander alone: less than 0.1%
-    * White alone, not Hispanic or Latino: 78.6%
-    * Two or More Races: 2.2%
+    * Black or African American alone:	13.4%  
+    * Asian alone: 4.0%  
+    * Hispanic or Latino: 2.1%  
+    * American Indian and Alaska Native alone: 0.2%  
+    * Native Hawaiian and Other Pacific Islander alone: less than 0.1%  
+    * White alone, not Hispanic or Latino: 78.6%  
+    * Two or More Races: 2.2%  
 
 Some assumptions: 
 * Native Hawaiians would likely be counted as Indigenous by the
